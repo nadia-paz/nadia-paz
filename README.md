@@ -7,6 +7,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiapaz/)
 
+## My Projects
+- Capstone project @CodeUp [Cisco Sales Forecast](https://github.com/nadia-paz/codeup-capstone-project) - Time Series Analysis, Regression
+- [Github Scrape](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project) - NLP, Sentiment Analysis, Classification
+- [Austin Animal Center](https://github.com/nadia-paz/austin-shelter) - Classification
+- [Zillow Zestimate’s error](https://github.com/codeup-nadia-chris/clustering-project) - Clustering, Regression
+- [Single Family Residence price predictions](https://github.com/nadia-paz/zillow-project) - Regression
+- My very first one: [Telco Report Project](https://github.com/nadia-paz/telco-report-project) - Classification
+
+
+
 ## Skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
