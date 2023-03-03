@@ -10,6 +10,7 @@
 ## My Projects
 - Capstone project @CodeUp [Cisco Sales Forecast](https://github.com/nadia-paz/codeup-capstone-project) - Time Series Analysis, Regression
 - [Github Scrape](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project) - NLP, Sentiment Analysis, Classification
+- [Web logs Analysis](https://github.com/anomaly-detection-mirzakhani/web-logs-project) - Anomaly Detection
 - [Austin Animal Center](https://github.com/nadia-paz/austin-shelter) - Classification
 - [Zillow Zestimate’s error](https://github.com/codeup-nadia-chris/clustering-project) - Clustering, Regression
 - [Single Family Residence price predictions](https://github.com/nadia-paz/zillow-project) - Regression
