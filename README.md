@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiapaz/)
 
 ## My Projects
+Currently working on: [Epilepsy triggers detection](https://github.com/dream-team-nadia-woody/epilator) - Video Analysis, Anomaly Detection
 - Capstone project @CodeUp [Cisco Sales Forecast](https://github.com/nadia-paz/codeup-capstone-project) - Time Series Analysis, Regression
 - [Github Scrape](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project) - NLP, Sentiment Analysis, Classification
 - [Web logs Analysis](https://github.com/anomaly-detection-mirzakhani/web-logs-project) - Anomaly Detection
