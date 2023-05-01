@@ -12,7 +12,7 @@ Currently working on: [Epilepsy triggers detection](https://github.com/dream-tea
 - Capstone project @CodeUp [Cisco Sales Forecast](https://github.com/nadia-paz/codeup-capstone-project) - Time Series Analysis, Regression
 - [Github Scrape](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project) - NLP, Sentiment Analysis, Classification
 - [Web logs Analysis](https://github.com/anomaly-detection-mirzakhani/web-logs-project) - Anomaly Detection
-- [Austin Animal Center](https://github.com/nadia-paz/austin-shelter) - Classification
+- [Austin Animal Center](https://github.com/nadia-paz/austin-shelter) &#9679; [Notebook](https://github.com/nadia-paz/austin-shelter/blob/main/austin_animal_center.ipynb) [Slides](https://www.canva.com/design/DAFU4SN1Ozs/xLMSe1zwV7WqhG50VslrTg/view?website#2:austin) - Classification
 - [Zillow Zestimate’s error](https://github.com/codeup-nadia-chris/clustering-project) - Clustering, Regression
 - [Single Family Residence price predictions](https://github.com/nadia-paz/zillow-project) - Regression
 - My very first one: [Telco Report Project](https://github.com/nadia-paz/telco-report-project) - Classification
