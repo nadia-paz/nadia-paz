@@ -3,16 +3,22 @@
 <!--
 **nadia-paz/nadia-paz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-:fire: Data Scientist, Austin, TX
+✨ Data Scientist ✨ Austin ✨ TX
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadiapaz/)
 
 ## My Projects
 Currently working on: [Epilepsy triggers detection](https://github.com/dream-team-nadia-woody/epilator) - Video Analysis, Anomaly Detection
-- **Capstone project** @CodeUp [Cisco Sales Forecast](https://github.com/nadia-paz/codeup-capstone-project) &#9900;[Notebook](https://github.com/nadia-paz/codeup-capstone-project/blob/main/final_notebook.ipynb) &#9900; [Slides](https://www.canva.com/design/DAFZcPULMG4/fGHlG_J86ECvpvWeMMNh4w/view?utm_content=DAFZcPULMG4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) - Time Series Analysis, Regression
-- [Github Scrape](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project) &#9900; [Notebook](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project/blob/main/Final_Notebook.ipynb) &#9900;[Slides](https://www.canva.com/design/DAFXYtmJecw/zcgBWNIuZw722jgt14ferg/view?utm_content=DAFXYtmJecw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - NLP, Sentiment Analysis, Classification
+- **Capstone project** @CodeUp [Cisco Sales Forecast](https://github.com/nadia-paz/codeup-capstone-project) - Time Series Analysis, Regression
+    * &#9900;[Notebook](https://github.com/nadia-paz/codeup-capstone-project/blob/main/final_notebook.ipynb) 
+    * &#9900; [Slides](https://www.canva.com/design/DAFZcPULMG4/fGHlG_J86ECvpvWeMMNh4w/view?utm_content=DAFZcPULMG4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 
+- [Github Scrape](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project) - NLP, Sentiment Analysis, Classification
+    * &#9900; [Notebook](https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project/blob/main/Final_Notebook.ipynb) 
+    * &#9900;[Slides](https://www.canva.com/design/DAFXYtmJecw/zcgBWNIuZw722jgt14ferg/view?utm_content=DAFXYtmJecw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 - [Web logs Analysis](https://github.com/anomaly-detection-mirzakhani/web-logs-project) - Anomaly Detection
-- [Austin Animal Center](https://github.com/nadia-paz/austin-shelter) &#9900; [Notebook](https://github.com/nadia-paz/austin-shelter/blob/main/austin_animal_center.ipynb) &#9900; [Slides](https://www.canva.com/design/DAFU4SN1Ozs/xLMSe1zwV7WqhG50VslrTg/view?website#2:austin) - Classification
+- [Austin Animal Center](https://github.com/nadia-paz/austin-shelter) - Classification
+    * &#9900; [Notebook](https://github.com/nadia-paz/austin-shelter/blob/main/austin_animal_center.ipynb) 
+    * &#9900; [Slides](https://www.canva.com/design/DAFU4SN1Ozs/xLMSe1zwV7WqhG50VslrTg/view?website#2:austin) 
 - [Zillow Zestimate’s error](https://github.com/codeup-nadia-chris/clustering-project) - Clustering, Regression
 - [Single Family Residence price predictions](https://github.com/nadia-paz/zillow-project) - Regression
 - My very first one: [Telco Report Project](https://github.com/nadia-paz/telco-report-project) - Classification
